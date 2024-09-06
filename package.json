@@ -1,5 +1,5 @@
 {
-    "name": "template-vite",
+    "name": "phaser-editor-template-vite",
     "description": "A Phaser 3 template using Vite.",
     "version": "1.3.2",
     "type": "module",
